@@ -1,0 +1,38 @@
+========================================
+   LAPORAN STOK TOKO TAS LES CATINO
+========================================
+
+Tanggal Cetak: Tue Jan 06 00:56:21 2026
+
+SKU            Nama Tas                      Harga          Stok      Kategori            
+------------------------------------------------------------------------------------------
+TAS0021        Tas laptop Ransel             Rp100000      60        Ransel              
+TAS001         Tas Ransel Casual             Rp250000      15        Ransel              
+TAS002         Tas Selempang Kulit           Rp350000      10        Selempang           
+TAS003         Tas Laptop Premium            Rp450000      8         Laptop              
+TAS004         Tas Travel Besar              Rp550000      5         Travel              
+TAS005         Tas Sekolah Anak              Rp180000      20        Sekolah             
+TAS006         Tas Wanita Elegan             Rp320000      12        Fashion             
+TAS007         Tas Pria Formal               Rp300000      9         Formal              
+TAS008         Tas Gunung Outdoor            Rp600000      6         Outdoor             
+TAS009         Tas Kamera Profesional        Rp700000      4         Kamera              
+    ** STOK RENDAH! **
+TAS010         Tas Olahraga Gym              Rp220000      18        Olahraga            
+TAS011         Tas Pinggang Trendy           Rp150000      25        Pinggang            
+TAS012         Tas Laptop Slim               Rp380000      11        Laptop              
+TAS013         Tas Ransel Anti Air           Rp420000      7         Ransel              
+TAS014         Tas Selempang Kanvas          Rp200000      16        Selempang           
+TAS015         Tas Kerja Eksekutif           Rp500000      6         Kerja               
+TAS016         Tas Travel Kabin              Rp480000      8         Travel              
+TAS017         Tas Wanita Mini               Rp175000      22        Fashion             
+TAS018         Tas Pria Kulit Asli           Rp650000      5         Formal              
+TAS019         Tas Anak Bergambar            Rp160000      30        Sekolah             
+TAS020         Tas Outdoor Hiking            Rp720000      3         Outdoor             
+    ** STOK RENDAH! **
+------------------------------------------------------------------------------------------
+
+RINGKASAN:
+Total Jenis Produk: 21
+Total Unit Stok: 300
+Total Nilai Stok: Rp75070000.00
+========================================
