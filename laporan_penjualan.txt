@@ -1,0 +1,12 @@
+========================================
+   LAPORAN PENJUALAN TOKO TAS LES CATINO
+========================================
+
+Tanggal Cetak: Tue Jan 06 00:36:59 2026
+
+
+========================================
+RINGKASAN:
+Total Transaksi Selesai: 0
+Total Pendapatan: Rp0.00
+========================================

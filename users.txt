@@ -1,0 +1,4 @@
+admin|admin123|admin@lescatino.com|admin|3201010101010001|06/01/2026 00:17|1
+user|user123|user@lescatino.com|user|3201010101010002|06/01/2026 00:17|1
+sultan|sultan123|steamnvm1@gmail.com|user|2400018131|06/01/2026 00:18|1
+jefry|jefry123|jefjef@gmail.com|user|24000918|06/01/2026 00:49|1
